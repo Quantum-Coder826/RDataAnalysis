@@ -1,0 +1,11 @@
+ExperimentID@Bacteria@GrowthRate@Temperature@Medium@pH@Antibiotic
+B01@Escherichia coli@1.2@37@Agar@7.0@TRUE
+B02@Bacillus subtilis@0.8@30@Broth@6.5@FALSE
+B03@Staphylococcus aureus@1.0@37@Broth@7.2@TRUE
+B04@Lactobacillus casei@0.6@28@Agar@5.5@FALSE
+B05@Escherichia coli@1.5@37@Broth@7.0@TRUE
+B06@Bacillus subtilis@0.9@25@Agar@6.8@FALSE
+B07@Staphylococcus aureus@0.7@40@Broth@7.5@TRUE
+B08@Lactobacillus casei@0.5@30@Agar@5.0@FALSE
+B09@Escherichia coli@1.3@37@Agar@7.1@FALSE
+10@Bacillus subtilis@1.0@35@Broth@6.9@TRUE

@@ -1,0 +1,51 @@
+student_id,name,gender,age,major,year,hours_studied,test_score,assignment_score,participation_score,total_score
+1,Student 1,Male,19,Mathematics,1,6,73,54,83,69.3
+2,Student 2,Female,23,Economics,4,8,73,73,30,64.4
+3,Student 3,Male,24,Biology,4,6,86,90,65,83.0
+4,Student 4,Male,24,Mathematics,3,13,54,71,69,62.1
+5,Student 5,Male,21,Mathematics,1,19,55,75,59,61.8
+6,Student 6,Male,20,History,3,12,98,100,49,88.8
+7,Student 7,Male,19,Economics,2,10,59,86,67,68.7
+8,Student 8,Female,22,Mathematics,1,6,52,94,31,60.4
+9,Student 9,Female,18,Computer Science,1,7,87,78,35,73.9
+10,Student 10,Male,21,Computer Science,4,10,83,85,65,80.0
+11,Student 11,Female,20,History,1,7,55,69,55,59.2
+12,Student 12,Female,23,Mathematics,1,7,59,67,100,69.6
+13,Student 13,Male,18,History,4,19,65,89,88,76.8
+14,Student 14,Female,21,History,1,18,78,94,59,79.0
+15,Student 15,Male,20,History,1,14,52,90,51,63.2
+16,Student 16,Female,20,Mathematics,2,8,60,64,46,58.4
+17,Student 17,Male,20,Mathematics,1,7,86,64,60,74.2
+18,Student 18,Female,24,Biology,1,16,53,73,85,65.4
+19,Student 19,Female,23,History,1,19,98,78,60,84.4
+20,Student 20,Male,20,History,3,11,53,66,42,54.7
+21,Student 21,Male,22,History,4,12,73,98,46,75.1
+22,Student 22,Male,25,History,3,14,77,96,68,80.9
+23,Student 23,Female,21,Computer Science,2,6,84,74,37,71.6
+24,Student 24,Female,21,Mathematics,2,19,87,65,67,76.4
+25,Student 25,Female,23,History,1,8,99,99,44,88.0
+26,Student 26,Male,22,Mathematics,3,16,73,66,30,62.3
+27,Student 27,Female,24,Economics,3,15,71,96,32,70.7
+28,Student 28,Male,22,History,2,17,75,96,67,79.7
+29,Student 29,Male,24,Mathematics,3,13,67,70,77,69.9
+30,Student 30,Male,23,Biology,3,16,52,93,92,72.3
+31,Student 31,Male,21,History,1,15,95,97,91,94.8
+32,Student 32,Female,20,Economics,4,8,60,76,44,61.6
+33,Student 33,Female,18,History,3,18,58,54,91,63.4
+34,Student 34,Female,24,Mathematics,1,15,82,71,67,75.7
+35,Student 35,Male,24,Computer Science,1,15,75,82,49,71.9
+36,Student 36,Male,25,Computer Science,2,16,85,89,88,86.8
+37,Student 37,Female,22,History,3,12,53,51,36,49.0
+38,Student 38,Male,25,Computer Science,4,14,51,84,100,70.7
+39,Student 39,Male,21,Mathematics,2,16,57,92,81,72.3
+40,Student 40,Female,24,Mathematics,4,14,56,68,33,55.0
+41,Student 41,Male,25,Computer Science,2,19,85,89,30,75.2
+42,Student 42,Female,19,History,1,16,83,76,67,77.7
+43,Student 43,Male,21,Mathematics,4,8,89,89,82,87.6
+44,Student 44,Female,20,History,2,8,68,85,32,65.9
+45,Student 45,Female,23,Economics,4,19,78,88,44,74.2
+46,Student 46,Female,25,Economics,2,10,88,51,32,65.7
+47,Student 47,Male,19,Mathematics,3,16,55,90,62,66.9
+48,Student 48,Male,20,Economics,1,11,59,67,85,66.6
+49,Student 49,Male,22,Economics,4,5,90,95,62,85.9
+50,Student 50,Male,18,History,4,13,91,72,60,79.1

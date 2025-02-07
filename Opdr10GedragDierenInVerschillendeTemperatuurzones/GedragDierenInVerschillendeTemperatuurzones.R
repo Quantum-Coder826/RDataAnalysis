@@ -45,4 +45,17 @@ ggplot(snelheden, aes(Tijd, SnelheidGemiddeld)) +
   geom_line(color = "darkolivegreen4") +
   geom_ribbon(aes(ymin = SnelheidGemiddeld - SE, ymax = SnelheidGemiddeld + SE),
               fill = "darkolivegreen4", alpha = 0.5)
+
+# Vraag G
+ggplot(temperatuurzones, aes(x = Soort, y = Bewegingssnelheid, fill =
+                               Temperatuurzone)) +
+  geom_boxplot() +
+  theme( axis.title = element_text(face = "bold"),
+         panel.grid.major = element_line(linetype = 3, color = "grey"),
+         panel.background = element_rect(fill = "gray95"),
+         legend.position = "top",
+         legend.margin = margin(t = 10, r = 10, b = 10, l = 10) ) +
+  labs( title = "Bewegingssnelheid per Diersoort en Temperatuurzone",
+        x = "Soort",
+        y = "Bewegingssnelheid (km/u)" )
   

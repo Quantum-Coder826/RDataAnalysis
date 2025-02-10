@@ -7,7 +7,6 @@ ggplot(CO2, aes(conc, uptake, colour = Treatment)) +
   geom_point() +
   facet_grid(~ factor(Plant))
 
-
 #vraag C
 ggplot(CO2, aes(conc, uptake, colour = Plant)) +
   geom_line(linewidth = 1) +

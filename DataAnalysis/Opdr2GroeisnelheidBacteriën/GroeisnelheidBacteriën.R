@@ -12,4 +12,16 @@ sum(bacteria$Bacteria == "Lactobacillus casei")
 
 sort(factor(bacteria$Temperature))
 
-resistent <- bacteria[,order()]
+# Vraag F
+resistent <- subset(bacteria, Antibiotic == TRUE)[,1:5]
+
+# Vraag G
+Bacteria <- c("Bacillus subtilis", "Staphylococcus aureus", "Bacillus subtilis", "Escherichia coli")
+GrowthRate <- c("0.2", "0.1", "0.3", "0.2")
+Temperature <- c("39", "35", "35", "38")
+Medium <- c("Agar", "Agar", "Broth", "Agar")
+pH <- c("3.3", "3.3", "3.3", "3.3")
+
+extra_bacteria <- data.frame(Bacteria, GrowthRate, Temperature, Medium, pH)
+
+bacteria_list <- list(base = bacteria, extra = extra_bacteria)

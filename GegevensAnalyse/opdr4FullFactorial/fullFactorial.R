@@ -7,7 +7,7 @@ library(readxl)
 chemicals <- read_excel("POV004 XXX Chemicals.xlsx", 
                         sheet = "simulatie", range = "A3:F51")
 
-reg <- lm(Resultaten ~ C1 * C2 * C3 * C4, data = chemicals)
+reg <- lm(Resultaten ~ C1 : C2 : C3 : C4, data = chemicals)
 summary(reg)
 
 plot(allEffects(reg))
